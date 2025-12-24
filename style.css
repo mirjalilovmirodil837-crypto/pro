@@ -1,0 +1,116 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+header a{
+    text-decoration: none;
+    color: #9E9AA8;
+
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+header button{
+    width: 105px;
+    height: 40px;
+    background-color: #2BD0D0;
+    border: none;
+    border-radius: 28px;
+}
+.PRO{
+    width: 563px;
+    height: 351px;
+    align-items: center;
+margin-left: 50px;
+}
+.PRO h1{
+    font-size: 80px;
+}
+.box{
+    margin-top: 150px;
+    display: flex;
+}
+.PRO button{
+    width: 197px;
+    height: 56px;
+    background-color: #2BD0D0;
+    border: none;
+   border-radius: 28px;
+   margin-top: 50px;
+}
+.wow{
+    margin-left: 100px;
+}
+input{
+    width: 769px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: #FFFFFF;
+}
+.inpu button{
+    width: 188px;
+    height: 64px;
+    border-radius: 10px;
+    background-color: #2BD0D0;
+    
+}
+.inpu{
+    width: 1110px;
+    height: 168px;
+    background: #3A3054;
+border-radius: 10px;
+display: flex;
+justify-content: center;
+margin-left: 200px;
+margin-top: 150px;
+position: relative;
+top: 50px;
+}
+.inpu div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+  
+}
+.box2{
+    
+    height: 270px;
+    background-color: rgb(47, 23, 6);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box2 button{
+    width: 147px;height: 60px;
+    background-color: #2BD0D0;
+    border: none;
+    border-radius: 28px;
+    display: flex;
+    margin-left: 20px;
+    text-align: center;
+   color: white;
+   justify-content: center;
+   align-items: center;
+   margin-left: 70px;
+}
+footer{
+    height: 150px;
+    background-color: #232127;
+    display: flex;
+    align-items: center;
+    justify-content:space-around ;
+}
+footer nav{
+    display: flex;
+    align-items: center;
+    color: white;
+}
